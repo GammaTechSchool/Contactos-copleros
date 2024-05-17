@@ -6,7 +6,7 @@
 
 ## Introducción 
 
-![](imagen.png)
+![](assets/imagen.png)
 
 Dadas las imágenes en la carpeta `assets`, tendrás que replicar el listado de contactos arriba mostrado.
 
