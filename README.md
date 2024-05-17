@@ -1,4 +1,4 @@
-# Contactos-copleros-
+# Contactos Copleros
 
 ![Logotipo de GammaTech School](../../../assets/Logo_Yellow.png)
 
